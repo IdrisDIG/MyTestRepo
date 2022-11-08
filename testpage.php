@@ -1,3 +1,3 @@
 <?
-echo "This page is testing"; 
-
+echo "This page is testing";
+echo "Это тестовая строка";
